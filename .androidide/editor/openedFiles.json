@@ -1,0 +1,35 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/sound 5 planning/app/src/main/java/com/example/sound5planning/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 24,
+          "index": 4318,
+          "line": 117
+        },
+        "start": {
+          "column": 24,
+          "index": 4318,
+          "line": 117
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/sound 5 planning/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 77,
+          "index": 407,
+          "line": 7
+        },
+        "start": {
+          "column": 77,
+          "index": 407,
+          "line": 7
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/sound 5 planning/app/src/main/java/com/example/sound5planning/MainActivity.java"
+}
